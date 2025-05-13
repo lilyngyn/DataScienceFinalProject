@@ -10,15 +10,15 @@ The main goal of this prokect is to analyze and visualize national hospital data
 ```
 "LN - Final Project Pt5.ipynb" | Jupyter Notebook containing full analysis, code, and visualization
 
+"LN Final Project Summary" | One-page summary outlining the tools, insights, recommendations, and future work
+
+"LN Final Project Slides" | Slides summarizing the project for presenting to an audience
+
 "README.md" | The file contains an overview, purpose, and files of this project
 
 "Weekly_Hospitalization_Final_Project.csv" | Main dataset showing national hospital capacity and admissions
 
 "Weekly_Hospitalization_cleaned.csv" | The cleaned data used for its data to analyze and visualize
-
-"LN Final Project Summary" | One-page summary outlining the tools, insights, recommendations, and future work
-
-"LN Final Project Slides" | Slides summarizing the project for presenting to an audience
 ```
 
 
